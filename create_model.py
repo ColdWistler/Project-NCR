@@ -7,8 +7,8 @@ from tensorflow.keras.preprocessing.image import ImageDataGenerator
 from tensorflow.keras.callbacks import TensorBoard
 
 # Paths
-BASE_DIR = "/home/soggygenus/Documents/CV/devanagari-character-recognition"
-TRAIN_DIR = "/home/soggygenus/Documents/CV/devanagari-character-recognition/train/"
+BASE_DIR = "Base directory of the files"
+TRAIN_DIR = "Train file directory"
 TEST_DIR = "/home/soggygenus/Documents/CV/devanagari-character-recognition/test/"
 LOG_DIR = "/home/soggygenus/Documents/CV/devanagari-character-recognition/"
 
